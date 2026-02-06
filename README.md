@@ -141,7 +141,7 @@ Downloads the full waitlist as a CSV file, ready for Excel or Google Sheets.
 
 This API can be deployed on:
 
-* VPS with Nginx
+* VPS with Nginx (old or new)
 * Render
 * Fly.io
 * Railway
